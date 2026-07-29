@@ -1,22 +1,2 @@
 # JetBrains IDE
 .idea/
-*.iml
-
-# OS files
-.DS_Store
-Thumbs.db
-desktop.ini
-
-# Editor / swap files
-*.swp
-*.swo
-*~
-.vscode/
-
-# Logs
-*.log
-logs/
-
-# Temp files
-*.tmp
-*.bak
