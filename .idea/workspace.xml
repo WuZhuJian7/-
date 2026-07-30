@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6fe96fb7-bec9-43c9-9490-b3cfb0319285" name="更改" comment="">
-      <change beforePath="$PROJECT_DIR$/content/第一章.txt" beforeDir="false" afterPath="$PROJECT_DIR$/content/第一章.txt" afterDir="false" />
-    </list>
+    <list default="true" id="6fe96fb7-bec9-43c9-9490-b3cfb0319285" name="更改" comment="allin" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,7 +70,17 @@
       <workItem from="1785308059114" duration="1461000" />
       <workItem from="1785316877579" duration="1591000" />
       <workItem from="1785318568826" duration="1004000" />
+      <workItem from="1785323004149" duration="678000" />
     </task>
+    <task id="LOCAL-00001" summary="allin">
+      <option name="closed" value="true" />
+      <created>1785323081884</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1785323081884</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -88,5 +96,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="allin" />
+    <option name="LAST_COMMIT_MESSAGE" value="allin" />
   </component>
 </project>
