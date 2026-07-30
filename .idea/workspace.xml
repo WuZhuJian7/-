@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6fe96fb7-bec9-43c9-9490-b3cfb0319285" name="更改" comment="allin">
+    <list default="true" id="6fe96fb7-bec9-43c9-9490-b3cfb0319285" name="更改" comment="no1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.learnings/LOCATIONS.md" beforeDir="false" afterPath="$PROJECT_DIR$/.learnings/LOCATIONS.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.learnings/CHARACTERS.md" beforeDir="false" afterPath="$PROJECT_DIR$/.learnings/CHARACTERS.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.learnings/PLOT_POINTS.md" beforeDir="false" afterPath="$PROJECT_DIR$/.learnings/PLOT_POINTS.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.learnings/STORY_BIBLE.md" beforeDir="false" afterPath="$PROJECT_DIR$/.learnings/STORY_BIBLE.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/第一章.txt" beforeDir="false" afterPath="$PROJECT_DIR$/content/第一章.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/大纲.md" beforeDir="false" afterPath="$PROJECT_DIR$/大纲.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.workbuddy/memory/2026-07-30.md" beforeDir="false" afterPath="$PROJECT_DIR$/.workbuddy/memory/2026-07-30.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +75,7 @@
       <workItem from="1785308059114" duration="1461000" />
       <workItem from="1785316877579" duration="1591000" />
       <workItem from="1785318568826" duration="1004000" />
-      <workItem from="1785323004149" duration="2843000" />
+      <workItem from="1785323004149" duration="3599000" />
     </task>
     <task id="LOCAL-00001" summary="allin">
       <option name="closed" value="true" />
@@ -95,7 +93,15 @@
       <option name="project" value="LOCAL" />
       <updated>1785371207276</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="no1">
+      <option name="closed" value="true" />
+      <created>1785373555608</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1785373555608</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -114,6 +120,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="allin" />
-    <option name="LAST_COMMIT_MESSAGE" value="allin" />
+    <MESSAGE value="no1" />
+    <option name="LAST_COMMIT_MESSAGE" value="no1" />
   </component>
 </project>
