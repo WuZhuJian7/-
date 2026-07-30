@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6fe96fb7-bec9-43c9-9490-b3cfb0319285" name="更改" comment="no1">
+    <list default="true" id="6fe96fb7-bec9-43c9-9490-b3cfb0319285" name="更改" comment="NO.3">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.learnings/CHARACTERS.md" beforeDir="false" afterPath="$PROJECT_DIR$/.learnings/CHARACTERS.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.learnings/PLOT_POINTS.md" beforeDir="false" afterPath="$PROJECT_DIR$/.learnings/PLOT_POINTS.md" afterDir="false" />
@@ -75,7 +75,7 @@
       <workItem from="1785308059114" duration="1461000" />
       <workItem from="1785316877579" duration="1591000" />
       <workItem from="1785318568826" duration="1004000" />
-      <workItem from="1785323004149" duration="3599000" />
+      <workItem from="1785323004149" duration="4937000" />
     </task>
     <task id="LOCAL-00001" summary="allin">
       <option name="closed" value="true" />
@@ -101,7 +101,23 @@
       <option name="project" value="LOCAL" />
       <updated>1785373555608</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="NO.2">
+      <option name="closed" value="true" />
+      <created>1785374310308</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1785374310308</updated>
+    </task>
+    <task id="LOCAL-00005" summary="NO.3">
+      <option name="closed" value="true" />
+      <created>1785375606776</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1785375606776</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -121,6 +137,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="allin" />
     <MESSAGE value="no1" />
-    <option name="LAST_COMMIT_MESSAGE" value="no1" />
+    <MESSAGE value="NO.2" />
+    <MESSAGE value="NO.3" />
+    <option name="LAST_COMMIT_MESSAGE" value="NO.3" />
   </component>
 </project>
