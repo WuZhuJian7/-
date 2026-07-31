@@ -105,9 +105,9 @@ These chapters are deliberately designed to provoke comments/shares on the Tomat
 | 陈默 (Chen Mo) | Protagonist — INTP backend dev, 28, 28K/month | Wants to lie flat but forced to grind; values freedom over money | Becomes "programmer-style" richest person, stays a coder |
 | 赵子昂 (Zhao Zi'ang) | Antagonist — VP, Stanford MBA, wealthy family | Arrogant, sees coders as tools; wants to control the power | Hoist by his own petard |
 | 张伟 (Zhang Wei) | Best friend / technical conscience | Conservative "risk-control partner"; thinks in unit tests | Becomes CTO |
-| 林小鹿 (Lin Xiaolu) | Receptionist / first reader / 灵感缪斯 | Seems airheaded but perceptive; protagonist's secret crush | Becomes Chief Brand Officer |
+| 林小鹿 (Lin Xiaolu) | Product Manager (产品经理) / first reader / 灵感缪斯 | Seems airheaded but perceptive; protagonist's secret crush | Becomes Chief Brand Officer |
 
-**Note on heroine identity:** The suspense table (S-002) lists the heroine as 季晚晴 (a mysterious investor), resolved at chapter 88, while the character profiles only list 林小鹿 (receptionist). This discrepancy is intentional — the heroine's true identity is a mystery planted at chapter 4 and resolved at chapter 88. When writing chapters 4–88, maintain ambiguity about whether 林小鹿 and 季晚晴 are the same person or different people.
+**Note on heroine identity:** The suspense table (S-002) lists the heroine as 季晚晴 (a mysterious investor), resolved at chapter 88, while the character profiles only list 林小鹿 (product manager). This discrepancy is intentional — the heroine's true identity is a mystery planted at chapter 4 and resolved at chapter 88. When writing chapters 4–88, maintain ambiguity about whether 林小鹿 and 季晚晴 are the same person or different people.
 
 ## Writing Conventions
 
